@@ -1,0 +1,9 @@
+@import '@fontsource/fira-mono';
+
+*, *::before, *::after {
+	margin: 0 !important;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+:root {}
