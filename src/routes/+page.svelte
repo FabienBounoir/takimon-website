@@ -10,7 +10,7 @@
 </script>
 
 <svelte:head>
-	<title>Takimon - list</title>
+	<title>Takimon</title>
 </svelte:head>
 
 <section>
