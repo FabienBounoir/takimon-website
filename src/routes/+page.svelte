@@ -3,7 +3,7 @@
 	import welcome from '$lib/images/svelte-welcome.webp';
 	import welcome_fallback from '$lib/images/svelte-welcome.png';
 
-	const totalTakimon = 100;
+	const totalTakimon = 125;
 	const totalTypes = 5;
 
 	const type = ['Feu', 'Eau', 'Plante', 'Shiny', 'Ténèbre'];
